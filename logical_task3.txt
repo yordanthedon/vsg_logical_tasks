@@ -1,0 +1,1 @@
+We will give a small part of the liquids to the mouse, so they only get sick and not die. First we will give small amount of the first liquid to the first mouse and small amount of the second liquid to the second mouse. If one of the two mouses get sick that liquid is the poisonius one. If nothing happens we will do the same with the other two liquids.
