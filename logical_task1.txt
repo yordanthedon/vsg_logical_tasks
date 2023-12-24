@@ -1,0 +1,24 @@
+1. Equivalence Partitioning:
+
+1. Invalid Partitions:
+
+	1. Negative integers
+	2. Single-digit positive integers (less than 10)
+	3. Three or more digit positive integers
+	4. Non-integer inputs (letters, symbols, floating point number)
+
+2. Valid Partition are: 
+
+	1. Positive two-digit integers (10 to 99)
+
+2. Boundary Analysis:
+
+1. Boundaries:
+        
+	1. Below the lower boundary: 9 (INVALID)
+        2. On the lower boundary: 10 (VALID)
+        3. In the valid lower boundary: 11 (VALID)
+        4. In the valid upper boundary: 98 (VALID)
+	5. On the upper boundary: 99 (VALID)
+        6. Over the upper boundary: 100 (INVALID)
+
