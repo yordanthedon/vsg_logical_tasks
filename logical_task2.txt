@@ -1,0 +1,25 @@
+Planning:
+	We will discuss how big is going to be the wooden bower to estimate the work of
+building it (Like a blueprint).
+
+Execution plan:
+	
+	First command:
+- Helper 1 is going to organize the logs.
+- Helper 2 is going to orginize  the nails and the hammers.
+- Helper 3 is going to prepare the place for building the bower.
+	
+	Second command:
+- Helper 3 is going to pass them the needed tools.
+- Helper 1 and Helper 2 are going to build the base of the bower using the hammer and nails.
+
+	Third command:
+- Helper 3 is going to pass them the needed tools.
+- Helper 1 and Helper 2 are going to build the roof.
+	
+	Forth command:
+- Helper 3 is going to give the needed logs for the benches.
+- Helper 1 and Helper 2 are going to build them.
+
+	Manager's help:
+- I'll ask the manager if the specifications have been met or if anything has changed and seeking his guidance.
